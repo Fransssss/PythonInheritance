@@ -3,7 +3,7 @@ Simple Car Menu Input-Information
 
 Objectives:
 - create a 'parent' class
-- create 'kids' / inherited class
+- create and call 'kids' / inherited classes
 
 Example Output:
 
